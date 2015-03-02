@@ -467,7 +467,7 @@ a.readmore:hover, a.more-link:hover {
 /* =Header
 ----------------------------------------------- */
 #branding {
-	background: url("images/header-bg.jpg");	
+	/*background: url("images/header-bg.jpg");	*/
 	border-bottom: 1px solid #ddd;
 	-moz-box-shadow: 0 7px 0 #f3f3f3;
 	-webkit-box-shadow: 0 7px 0 #f3f3f3;
@@ -822,7 +822,7 @@ li.default-menu {
 /* =Content
 ----------------------------------------------- */
 #main {
-	padding-top: 60px;
+	padding-top: 10px;
 }
 #main select {
 	background-color: #fff;

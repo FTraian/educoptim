@@ -202,7 +202,7 @@ function cleanretina_headerdetails() {
 	?>
 
 	<div class="wrapper clearfix">
-		<div class="hgroup-wrap clearfix">
+		<div class="hgroup-wrap clearfix" style="display: none">
 			<?php 
 				if( 0 == $options[ 'hide_header_searchform' ] || 1 == $flag ) {
 			?>
