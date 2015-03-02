@@ -1,0 +1,22 @@
+--- 
+MYSQL: 
+  dbs: 
+    educopti_liveDB: 176.223.207.124
+  dbusers: 
+    educopti_liveDB: 
+      dbs: 
+        educopti_liveDB: 176.223.207.124
+      server: 176.223.207.124
+  noprefix: {}
+
+  owner: educopti
+  server: 176.223.207.124
+PGSQL: 
+  dbs: {}
+
+  dbusers: {}
+
+  noprefix: {}
+
+  owner: educopti
+  server: 176.223.207.124
