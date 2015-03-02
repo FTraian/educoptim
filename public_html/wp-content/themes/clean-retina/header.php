@@ -85,7 +85,7 @@
 				 *
 				 * cleanretina_headerdetails 10
 				 */
-				// do_action( 'cleanretina_header' );
+				do_action( 'cleanretina_header' );
 			?>
 		</header>
 		<?php
