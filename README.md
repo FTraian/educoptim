@@ -5,6 +5,8 @@
 În meniul de articole se adaugă un nou articol și **se bifează neapărat eticheta blog**, din dreapta, înainte de publicare.
 
 ###Adaugare album in galerie
+Un album conține mai multe galerii și o galerie conține mai multe imagini.
+
 - Din meniu se merge în stânga la **Gallery->Add Gallery/Images**
 - Se alege **Create new gallery** sau **o galerie existenta**
 - Se adauga imaginile in galerie
