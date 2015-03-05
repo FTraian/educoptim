@@ -1806,6 +1806,13 @@ div.bbp-search-form button {
    color: #5F85B0
 }
 
+.logo {
+	height: 150px;
+	position: relative;
+	margin-top: -220px;
+	margin-left: 30px;
+}
+
 /* =Responsive Structure
 ----------------------------------------------- */
 /* All Tablet Portrait size smaller than standard 1024 (devices and browsers) */
@@ -2016,6 +2023,13 @@ div.bbp-search-form button {
 	   margin: 0 0 30px;
 	   width: 100%;
 	}
+
+	.logo {
+		height: 50px;
+		position: relative;
+		margin-top: -100px;
+		margin-left: 30px;
+	}
 }
 
 /* All Mobile landscape size and All Mini Tablet Portrait size smaller than standard 768 and larger than 480 (devices and browsers) */
@@ -2042,6 +2056,12 @@ div.bbp-search-form button {
 	   float: left;
 	   margin: 0 0 30px 2.97%;
 	   width: 47.03%;
+	}
+	.logo {
+		height: 100px;
+		position: relative;
+		margin-top: -130px;
+		margin-left: 30px;
 	}
 }
 
