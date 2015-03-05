@@ -69,7 +69,12 @@
 	<div id="wrapper">
 		<div class="container" style="max-width: 962px">
 			<?php echo do_shortcode('[image-carousel]'); ?>
+			<img src="http://educoptim.ro/wp-content/uploads/2015/03/logo_100.png" height="100px"
+				style="position: relative;
+						margin-top: -130px;
+						margin-left: 30px;" />
 		</div>
+
 		<?php
 			/** 
 			 * cleanretina_before_header hook
