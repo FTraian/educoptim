@@ -14,3 +14,4 @@ Un album conține mai multe galerii și o galerie conține mai multe imagini.
 - Se alege in stanga sus albumul (*Activitatile noastre*)
 - De pe coloana din mijloc se ia o galerie si se trage in albumul din stanga
 - Se apasa **Update**
+- Se merge la **Gallery->Manage Galleries** si in dreapta, la **Create new page** se scrie numele unei noi pagini dupa care se apasa **Add Page**
